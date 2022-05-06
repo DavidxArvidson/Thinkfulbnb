@@ -4,6 +4,9 @@ Thinkfulbnb is a vacation rental website that allows people to rent out their ho
 
 This project was developed as an assignment in the Thinkful.com software engineering course. I implemented Thinkfulbnb's landing page in HTML & CSS.
 
+The live website is located here:
+* [Live Site](https://davidxarvidson.github.io/Thinkfulbnb/)
+
 ## Thinkfulbnb views
 ### Mobile view
 
